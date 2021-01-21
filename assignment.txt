@@ -1,0 +1,8 @@
+Assignment 1:
+find the list of block level elements and code them on a file called block-level.html
+
+Assignement 2:
+find the list of inline elements and code them on a file called inline.html
+
+Assignment 3:
+find the list of self opening and self closing tags and code them on a file called self.html
